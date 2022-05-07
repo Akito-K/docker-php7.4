@@ -1,1 +1,1 @@
-# docker-php74
+# docker-php7.4
